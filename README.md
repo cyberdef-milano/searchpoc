@@ -6,6 +6,9 @@ Why manually look for a PoC in the wild, wild web? This python script can query 
 
 ## Install
 
+```
+pip install git+https://github.com/cyberdef-milano/searchpoc.git
+```
 
 
 ## Usage
